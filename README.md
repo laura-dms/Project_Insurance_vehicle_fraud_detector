@@ -177,7 +177,7 @@ Au seuil métier, sur un an de sinistres (test temporel, 19 963 sinistres, 3 992
 
 *L'expérience MLflow : les 6 runs tracés (3 familles de modèles, avant et après tuning).*
 
-![Model Registry](assets/app_mlflow_registry_bis.png)
+![Model Registry](assets/app_mlflow_registry.png)
 
 *Le modèle dans le Model Registry d'Unity Catalog : version 1, alias **champion**, seuil métier en tag.*
 
