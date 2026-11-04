@@ -1,0 +1,6 @@
+# Dépendances de l'application (datetime fait partie de la stdlib Python,
+# il n'a pas à figurer ici).
+streamlit
+pandas
+mlflow
+xgboost
