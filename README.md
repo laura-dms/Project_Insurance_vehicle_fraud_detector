@@ -1,4 +1,4 @@
-# Projet Alpha — Détection de fraude sur sinistres automobiles
+# Projet - Détection de fraude sur sinistres automobiles
 
 **Pipeline complet de Machine Learning orienté métier** : du nettoyage des données brutes au modèle déployé dans le Model Registry, avec un seuil de décision calibré sur un objectif business (rappel ≥ 90 %) et une justification économique chiffrée du point de fonctionnement.
 
